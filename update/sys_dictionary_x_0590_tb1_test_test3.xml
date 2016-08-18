@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update>
-    <sys_dictionary action="INSERT_OR_UPDATE" element="test" table="x_0590_tb1_test">
+    <sys_dictionary action="INSERT_OR_UPDATE" element="test3" table="x_0590_tb1_test">
         <active>true</active>
         <array>false</array>
         <attributes/>
@@ -14,7 +14,7 @@
         <choice/>
         <choice_field/>
         <choice_table/>
-        <column_label>TEST2</column_label>
+        <column_label>TEST3</column_label>
         <comments/>
         <create_roles/>
         <default_value/>
@@ -27,7 +27,7 @@
         <dynamic_creation_script/>
         <dynamic_default_value/>
         <dynamic_ref_qual/>
-        <element>test</element>
+        <element>test3</element>
         <element_reference>false</element_reference>
         <foreign_database/>
         <internal_type display_value="String">string</internal_type>
@@ -50,16 +50,16 @@
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2016-08-18 00:21:45</sys_created_on>
+        <sys_created_on>2016-08-18 00:27:07</sys_created_on>
         <sys_customer_update>true</sys_customer_update>
-        <sys_id>3a3804710f11a600a031cf8ce1050eed</sys_id>
-        <sys_mod_count>1</sys_mod_count>
-        <sys_name>TEST2</sys_name>
+        <sys_id>066a84b10f11a600a031cf8ce1050e19</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>TEST3</sys_name>
         <sys_package display_value="TB1" source="x_0590_tb1">36764c790fdd6600a031cf8ce1050e05</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="TB1">36764c790fdd6600a031cf8ce1050e05</sys_scope>
-        <sys_update_name>sys_dictionary_x_0590_tb1_test_test</sys_update_name>
+        <sys_update_name>sys_dictionary_x_0590_tb1_test_test3</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2016-08-18 00:27:07</sys_updated_on>
         <table_reference>false</table_reference>
